@@ -1,0 +1,5 @@
+GaInAs
+Calculated Values for Temperature = 0K, and X fraction of 0
+Energy_C = 0,226835018193895eV | Energy_HH = -0,344958961537105eV | Energy_LH = -0,566535447475258eV | Energy_SH = -1,48462863322813eV
+e mass = 0,024 | HH mass = 0,26 | LH mass = 0,027 | Delta SO = 0,39
+Energy Gap of GaAsIn 0,417eV | GaAs 1,519eV | InAs 0,417eV
